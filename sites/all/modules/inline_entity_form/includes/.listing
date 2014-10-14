@@ -1,0 +1,7 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24         7005 Oct  9 10:26 commerce_line_item.inline_entity_form.inc
+-rw-r--r--    1 taphoa24   taphoa24        14127 Oct  9 10:26 commerce_product.inline_entity_form.inc
+-rw-r--r--    1 taphoa24   taphoa24        12901 Oct  9 10:26 entity.inline_entity_form.inc
+-rw-r--r--    1 taphoa24   taphoa24         2595 Oct  9 10:26 node.inline_entity_form.inc
+-rw-r--r--    1 taphoa24   taphoa24         3414 Oct  9 10:26 taxonomy_term.inline_entity_form.inc

@@ -1,0 +1,9 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24        19006 Oct  9 10:26 date_migrate_example.features.field.inc
+-rw-r--r--    1 taphoa24   taphoa24          527 Oct  9 10:26 date_migrate_example.features.inc
+-rw-r--r--    1 taphoa24   taphoa24         1061 Oct  9 10:26 date_migrate_example.info
+-rw-r--r--    1 taphoa24   taphoa24          462 Oct  9 10:26 date_migrate_example.install
+-rw-r--r--    1 taphoa24   taphoa24         4886 Oct  9 10:26 date_migrate_example.migrate.inc
+-rw-r--r--    1 taphoa24   taphoa24          372 Oct  9 10:26 date_migrate_example.module
+-rw-r--r--    1 taphoa24   taphoa24         1771 Oct  9 10:26 date_migrate_example.xml

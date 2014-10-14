@@ -1,0 +1,9 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 .
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Sep 25 17:00 ..
+-rw-r--r--    1 taphoa24   taphoa24          541 Sep 25 17:00 abbr.js
+-rw-r--r--    1 taphoa24   taphoa24          559 Sep 25 17:00 acronym.js
+-rw-r--r--    1 taphoa24   taphoa24         3471 Sep 25 17:00 attributes.js
+-rw-r--r--    1 taphoa24   taphoa24          541 Sep 25 17:00 cite.js
+-rw-r--r--    1 taphoa24   taphoa24         1356 Sep 25 17:00 del.js
+-rw-r--r--    1 taphoa24   taphoa24         7159 Sep 25 17:00 element_common.js
+-rw-r--r--    1 taphoa24   taphoa24         1356 Sep 25 17:00 ins.js

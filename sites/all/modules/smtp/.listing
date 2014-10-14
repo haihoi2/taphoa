@@ -1,0 +1,11 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 19:26 .
+drwxr-xr-x   71 taphoa24   taphoa24         4096 Oct 12 19:22 ..
+-rw-r--r--    1 taphoa24   taphoa24        18092 Oct  9 19:26 LICENSE.txt
+-rw-r--r--    1 taphoa24   taphoa24         1713 Oct  9 19:26 README.txt
+-rw-r--r--    1 taphoa24   taphoa24         8435 Oct  9 19:26 smtp.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24          410 Oct  9 19:26 smtp.info
+-rw-r--r--    1 taphoa24   taphoa24         1403 Oct  9 19:26 smtp.install
+-rw-r--r--    1 taphoa24   taphoa24        22250 Oct  9 19:26 smtp.mail.inc
+-rw-r--r--    1 taphoa24   taphoa24         1767 Oct  9 19:26 smtp.module
+-rw-r--r--    1 taphoa24   taphoa24        73542 Oct  9 19:26 smtp.phpmailer.inc
+-rw-r--r--    1 taphoa24   taphoa24        24894 Oct  9 19:26 smtp.transport.inc

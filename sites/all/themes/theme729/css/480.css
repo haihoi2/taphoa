@@ -1,0 +1,34 @@
+/* #Mobile (Landscape)
+================================================== */
+/* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    #page, #footer {width: 430px;}
+	.view-featured-products .views-row {width: 196px; margin-right: 16px;}
+	.view-featured-products .views-row.views-row-even {margin-right: 0;}
+    .view-bestsellers .views-row {width: 194px; padding: 15px 10px 17px;}
+	.view-bestsellers .views-row.views-row-even {margin-right: 0;}
+    #block-superfish-2 .content ul li {margin-right: 15px;}
+    #block-system-user-menu {clear: none; padding-top: 2px;}
+    .view-shop-page .view-content .views-row {
+        width: 200px;
+        margin-right: 10px;
+        padding: 10px;
+    }
+    #display {display: block;}
+    .item-list .commerce-checkout-progress > li {display: block ;}
+    .item-list .commerce-checkout-progress > li.visited a {
+        padding: 12px 10px 9px;
+    }
+    #edit-customer-profile-billing {max-width: 49%;}
+    #customer-profile-shipping-ajax-wrapper {margin-left: 0; width: 49%;}
+    .node-product-display .gallery-thumbs .wrapper ul li {width: auto !important;}
+    .page-shop h1 {margin-bottom: -25px;}
+    *[rel="row"] .view-shop-page .view-content .views-field-nothing {max-width: 220px; margin: 0 15px 10px 0;}
+    *[rel="row"] .view-shop-page .view-content .views-field-field-rating {float: left; clear: left; margin-left: 0;}
+    *[rel="row"] .view-shop-page .view-content .views-field-commerce-price {overflow: hidden;}
+    .view-shop-page .view-content .views-field-commerce-price {clear: none; overflow: hidden; padding: 0; width: auto;}
+    *[rel="grid"] .view-shop-page .view-content .views-field-field-pproduct .form-submit {float: left;}
+    .node-product-display .field-name-field-pproduct .form-item-quantity {clear: none; margin: 0 0 0 0px;}
+    .node-product-display.node-full .form-submit.wishlist {margin-top: 7px;}
+}

@@ -1,0 +1,11 @@
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Sep 25 17:00 .
+drwxr-xr-x   71 taphoa24   taphoa24         4096 Oct 12 19:22 ..
+-rw-r--r--    1 taphoa24   taphoa24        18092 Sep 25 17:00 LICENSE.txt
+-rw-r--r--    1 taphoa24   taphoa24         2076 Sep 25 17:00 README.txt
+-rw-r--r--    1 taphoa24   taphoa24          543 Sep 25 17:00 commerce_feeds.info
+-rw-r--r--    1 taphoa24   taphoa24          260 Sep 25 17:00 commerce_feeds.install
+-rw-r--r--    1 taphoa24   taphoa24         2416 Sep 25 17:00 commerce_feeds.module
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 commerce_feeds_example
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 mappers
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 plugins
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 tests

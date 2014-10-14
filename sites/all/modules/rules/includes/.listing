@@ -1,0 +1,9 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    9 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24        10775 Oct  9 10:26 faces.inc
+-rw-r--r--    1 taphoa24   taphoa24        93575 Oct  9 10:26 rules.core.inc
+-rw-r--r--    1 taphoa24   taphoa24        11067 Oct  9 10:26 rules.event.inc
+-rw-r--r--    1 taphoa24   taphoa24        26198 Oct  9 10:26 rules.plugins.inc
+-rw-r--r--    1 taphoa24   taphoa24        11776 Oct  9 10:26 rules.processor.inc
+-rw-r--r--    1 taphoa24   taphoa24        27655 Oct  9 10:26 rules.state.inc
+-rw-r--r--    1 taphoa24   taphoa24        25189 Oct  9 10:26 rules.upgrade.inc

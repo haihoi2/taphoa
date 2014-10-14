@@ -1,0 +1,16 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Sep 27 15:57 ..
+-rw-r--r--    1 taphoa24   taphoa24          189 Sep 27 15:57 application-octet-stream.png
+-rw-r--r--    1 taphoa24   taphoa24          346 Sep 27 15:57 application-pdf.png
+-rw-r--r--    1 taphoa24   taphoa24          189 Sep 27 15:57 application-x-executable.png
+-rw-r--r--    1 taphoa24   taphoa24          314 Sep 27 15:57 audio-x-generic.png
+-rw-r--r--    1 taphoa24   taphoa24          385 Sep 27 15:57 image-x-generic.png
+-rw-r--r--    1 taphoa24   taphoa24          260 Sep 27 15:57 package-x-generic.png
+-rw-r--r--    1 taphoa24   taphoa24          265 Sep 27 15:57 text-html.png
+-rw-r--r--    1 taphoa24   taphoa24          220 Sep 27 15:57 text-plain.png
+-rw-r--r--    1 taphoa24   taphoa24          220 Sep 27 15:57 text-x-generic.png
+-rw-r--r--    1 taphoa24   taphoa24          276 Sep 27 15:57 text-x-script.png
+-rw-r--r--    1 taphoa24   taphoa24          214 Sep 27 15:57 video-x-generic.png
+-rw-r--r--    1 taphoa24   taphoa24          196 Sep 27 15:57 x-office-document.png
+-rw-r--r--    1 taphoa24   taphoa24          181 Sep 27 15:57 x-office-presentation.png
+-rw-r--r--    1 taphoa24   taphoa24          183 Sep 27 15:57 x-office-spreadsheet.png

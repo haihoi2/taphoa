@@ -1,0 +1,8 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   13 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24          232 Oct  9 10:26 panels-add-content-link.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          980 Oct  9 10:26 panels-add-content-modal.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          366 Oct  9 10:26 panels-dashboard-block.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          260 Oct  9 10:26 panels-dashboard-link.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          209 Oct  9 10:26 panels-dashboard.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         1649 Oct  9 10:26 panels-pane.tpl.php

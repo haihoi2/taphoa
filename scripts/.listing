@@ -1,0 +1,13 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwx--x---   10 taphoa24   99               4096 Oct 13 05:40 ..
+-rw-r--r--    1 taphoa24   taphoa24          569 Sep 27 15:57 code-clean.sh
+-rw-r--r--    1 taphoa24   taphoa24           66 Sep 27 15:57 cron-curl.sh
+-rw-r--r--    1 taphoa24   taphoa24           78 Sep 27 15:57 cron-lynx.sh
+-rwxr-xr-x    1 taphoa24   taphoa24         4264 Sep 27 15:57 drupal.sh
+-rw-r--r--    1 taphoa24   taphoa24         2955 Sep 27 15:57 dump-database-d6.sh
+-rw-r--r--    1 taphoa24   taphoa24         2573 Sep 27 15:57 dump-database-d7.sh
+-rw-r--r--    1 taphoa24   taphoa24         6814 Sep 27 15:57 generate-d6-content.sh
+-rw-r--r--    1 taphoa24   taphoa24        10790 Sep 27 15:57 generate-d7-content.sh
+-rwxr-xr-x    1 taphoa24   taphoa24         2363 Sep 27 15:57 password-hash.sh
+-rwxr-xr-x    1 taphoa24   taphoa24        20523 Sep 27 15:57 run-tests.sh
+-rw-r--r--    1 taphoa24   taphoa24          185 Sep 27 15:57 test.script

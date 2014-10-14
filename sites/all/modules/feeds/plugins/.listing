@@ -1,0 +1,16 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   11 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24         7646 Oct  9 10:26 FeedsCSVParser.inc
+-rw-r--r--    1 taphoa24   taphoa24         6214 Oct  9 10:26 FeedsFetcher.inc
+-rw-r--r--    1 taphoa24   taphoa24        11957 Oct  9 10:26 FeedsFileFetcher.inc
+-rw-r--r--    1 taphoa24   taphoa24        10800 Oct  9 10:26 FeedsHTTPFetcher.inc
+-rw-r--r--    1 taphoa24   taphoa24        12397 Oct  9 10:26 FeedsNodeProcessor.inc
+-rw-r--r--    1 taphoa24   taphoa24          890 Oct  9 10:26 FeedsOPMLParser.inc
+-rw-r--r--    1 taphoa24   taphoa24        23086 Oct  9 10:26 FeedsParser.inc
+-rw-r--r--    1 taphoa24   taphoa24         5482 Oct  9 10:26 FeedsPlugin.inc
+-rw-r--r--    1 taphoa24   taphoa24        26281 Oct  9 10:26 FeedsProcessor.inc
+-rw-r--r--    1 taphoa24   taphoa24         7743 Oct  9 10:26 FeedsSimplePieParser.inc
+-rw-r--r--    1 taphoa24   taphoa24         1882 Oct  9 10:26 FeedsSitemapParser.inc
+-rw-r--r--    1 taphoa24   taphoa24         2525 Oct  9 10:26 FeedsSyndicationParser.inc
+-rw-r--r--    1 taphoa24   taphoa24         5914 Oct  9 10:26 FeedsTermProcessor.inc
+-rw-r--r--    1 taphoa24   taphoa24         6983 Oct  9 10:26 FeedsUserProcessor.inc

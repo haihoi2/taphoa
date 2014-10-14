@@ -1,0 +1,9 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   14 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24         8957 Oct  9 10:26 ajax.js
+-rw-r--r--    1 taphoa24   taphoa24         4924 Oct  9 10:26 ajax_view.js
+-rw-r--r--    1 taphoa24   taphoa24         3087 Oct  9 10:26 base.js
+-rw-r--r--    1 taphoa24   taphoa24         1132 Oct  9 10:26 jquery.ui.dialog.patch.js
+-rw-r--r--    1 taphoa24   taphoa24        37770 Oct  9 10:26 views-admin.js
+-rw-r--r--    1 taphoa24   taphoa24          490 Oct  9 10:26 views-contextual.js
+-rw-r--r--    1 taphoa24   taphoa24          633 Oct  9 10:26 views-list.js

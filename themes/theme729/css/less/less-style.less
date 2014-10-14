@@ -1,0 +1,84 @@
+/////////////////
+// Semantic.gs // for LESS: http://lesscss.org/
+/////////////////
+
+// Defaults which you can freely override
+@column-width: 60;
+@gutter-width: 20;
+@columns: 12;
+
+// Utility variable — you should never need to modify this
+@_gridsystem-width: (@column-width*@columns) + (@gutter-width*@columns) * 1px; /* (60*12)+(20*12) * 1px = 960px */
+
+@total-width: @_gridsystem-width; 
+
+
+
+
+
+//////////
+// GRID //
+//////////
+
+body {
+	width: 100%;
+	.clearfix;
+}
+
+.row(@columns:@columns) {
+	display: inline-block;
+	width: @total-width*((@gutter-width + @_gridsystem-width)/@_gridsystem-width); /* 960*((20+960)/960)=980 */
+	margin: 0 @total-width*(((@gutter-width*.5)/@_gridsystem-width)*-1); 			/* 960*(((20*0.5)/960)*-1)=-10 */
+	.clearfix;
+}
+
+@mq: @media only screen and (min-width: 768px) and (max-width: 780px) {};
+
+@mqw: @media all;
+
+@mqe: @media only screen and (min-width: 320px) and (max-width: 480px) {};
+
+@mqr: @media only screen and (min-width: 480px) and (max-width: 768px) {};
+
+.column (@x,@columns:@columns) when (@mq) {
+	display: inline;  /* [bb] not sure why this is better than block, seems to work both ways */
+	float: left;
+	width: 768*((((@gutter-width+@column-width)*@x)-@gutter-width) / @_gridsystem-width); /* 960*((((20+60)*X)-20)/960)=940 */
+	margin: 0 768*((@gutter-width*.5)/@_gridsystem-width);									/* 960*((20*.05)/960)=10 */
+}
+
+.column (@x,@columns:@columns) when (@mqw) {
+	display: inline;  /* [bb] not sure why this is better than block, seems to work both ways */
+	float: left;
+	width: 768*((((@gutter-width+@column-width)*@x)-@gutter-width) / @_gridsystem-width); /* 960*((((20+60)*X)-20)/960)=940 */
+	margin: 0 768*((@gutter-width*.5)/@_gridsystem-width);									/* 960*((20*.05)/960)=10 */
+}
+
+.column (@x,@columns:@columns) when (@mqe) {
+	display: inline;  /* [bb] not sure why this is better than block, seems to work both ways */
+	float: left;
+	width: 768*((((@gutter-width+@column-width)*@x)-@gutter-width) / @_gridsystem-width); /* 960*((((20+60)*X)-20)/960)=940 */
+	margin: 0 768*((@gutter-width*.5)/@_gridsystem-width);									/* 960*((20*.05)/960)=10 */
+}
+
+.column (@x,@columns:@columns) when (@mqr) {
+	display: inline;  /* [bb] not sure why this is better than block, seems to work both ways */
+	float: left;
+	width: 768*((((@gutter-width+@column-width)*@x)-@gutter-width) / @_gridsystem-width); /* 960*((((20+60)*X)-20)/960)=940 */
+	margin: 0 768*((@gutter-width*.5)/@_gridsystem-width);									/* 960*((20*.05)/960)=10 */
+}
+
+.alpha { margin-left: 0;}
+.omega { margin-right: 0;}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+@media only screen and (min-width: 768px) and (max-width: 995px) {
+	#sidebar-first {
+		width: 200px;
+	}
+}
+@media only screen and (max-width: 767px) {}
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+ndefined index: in theme_commerce_checkout_progress_list() (line 173 of C:\xampp\htdocs\commerc\sites\all\modules\commerce_checkout_progress\commerce_checkout_progress.module).
+Notice: Undefined index: in theme_commerce_checkout_progress_list() (line 176 of C:\xampp\htdocs\commerc\sites\all\m

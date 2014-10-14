@@ -1,0 +1,7 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Sep 27 15:57 ..
+-rw-r--r--    1 taphoa24   taphoa24          285 Sep 27 15:57 aggregator_test.info
+-rw-r--r--    1 taphoa24   taphoa24         2082 Sep 27 15:57 aggregator_test.module
+-rw-r--r--    1 taphoa24   taphoa24          572 Sep 27 15:57 aggregator_test_atom.xml
+-rw-r--r--    1 taphoa24   taphoa24         2593 Sep 27 15:57 aggregator_test_rss091.xml
+-rw-r--r--    1 taphoa24   taphoa24          441 Sep 27 15:57 aggregator_test_title_entities.xml

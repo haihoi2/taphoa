@@ -1,0 +1,9 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   11 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24         2509 Oct  9 10:26 feeds_news.features.field.inc
+-rw-r--r--    1 taphoa24   taphoa24         1219 Oct  9 10:26 feeds_news.features.inc
+-rw-r--r--    1 taphoa24   taphoa24         3379 Oct  9 10:26 feeds_news.feeds_importer_default.inc
+-rw-r--r--    1 taphoa24   taphoa24          809 Oct  9 10:26 feeds_news.info
+-rw-r--r--    1 taphoa24   taphoa24           88 Oct  9 10:26 feeds_news.module
+-rw-r--r--    1 taphoa24   taphoa24         5217 Oct  9 10:26 feeds_news.test
+-rw-r--r--    1 taphoa24   taphoa24         5134 Oct  9 10:26 feeds_news.views_default.inc

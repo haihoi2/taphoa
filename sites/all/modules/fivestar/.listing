@@ -1,0 +1,16 @@
+drwxr-xr-x   10 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   71 taphoa24   taphoa24         4096 Oct 12 19:22 ..
+-rw-r--r--    1 taphoa24   taphoa24        18092 Oct  9 10:26 LICENSE.txt
+-rw-r--r--    1 taphoa24   taphoa24         8780 Oct  9 10:26 README.txt
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 css
+-rw-r--r--    1 taphoa24   taphoa24         4019 Oct  9 10:26 fivestar.api.php
+-rw-r--r--    1 taphoa24   taphoa24          391 Oct  9 10:26 fivestar.info
+-rw-r--r--    1 taphoa24   taphoa24         9264 Oct  9 10:26 fivestar.install
+-rw-r--r--    1 taphoa24   taphoa24        32131 Oct  9 10:26 fivestar.module
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 help
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 images
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 includes
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 js
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 screenshots
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 test
+drwxr-xr-x   13 taphoa24   taphoa24         4096 Oct  9 10:26 widgets

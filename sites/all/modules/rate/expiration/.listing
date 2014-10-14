@@ -1,0 +1,5 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24          356 Oct  9 10:26 rate_expiration.info
+-rw-r--r--    1 taphoa24   taphoa24          791 Oct  9 10:26 rate_expiration.install
+-rw-r--r--    1 taphoa24   taphoa24         9543 Oct  9 10:26 rate_expiration.module

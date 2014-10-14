@@ -1,0 +1,15 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 23:17 .
+drwxr-xr-x   42 taphoa24   taphoa24         4096 Sep 27 16:23 ..
+-rw-r--r--    1 taphoa24   taphoa24          709 Sep 27 15:57 poll-bar--block.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          775 Sep 27 15:57 poll-bar.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          822 Sep 27 15:57 poll-results--block.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          789 Sep 27 15:57 poll-results.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          134 Sep 27 15:57 poll-rtl.css
+-rw-r--r--    1 taphoa24   taphoa24          797 Sep 27 15:57 poll-vote.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          809 Sep 27 15:57 poll.css
+-rw-r--r--    1 taphoa24   taphoa24          344 Sep 27 15:57 poll.info
+-rw-r--r--    1 taphoa24   taphoa24         6080 Sep 27 15:57 poll.install
+-rw-r--r--    1 taphoa24   taphoa24        30932 Oct  9 23:07 poll.module
+-rw-r--r--    1 taphoa24   taphoa24         3197 Oct  9 23:17 poll.pages.inc
+-rw-r--r--    1 taphoa24   taphoa24        33969 Sep 27 15:57 poll.test
+-rw-r--r--    1 taphoa24   taphoa24         2897 Sep 27 15:57 poll.tokens.inc

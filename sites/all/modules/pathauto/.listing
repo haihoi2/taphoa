@@ -1,0 +1,16 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:01 .
+drwxr-xr-x   71 taphoa24   taphoa24         4096 Oct 12 19:22 ..
+-rw-r--r--    1 taphoa24   taphoa24         6549 Sep 25 17:01 API.txt
+-rw-r--r--    1 taphoa24   taphoa24         1970 Sep 25 17:01 INSTALL.txt
+-rw-r--r--    1 taphoa24   taphoa24        18092 Sep 25 17:01 LICENSE.txt
+-rw-r--r--    1 taphoa24   taphoa24         4050 Sep 25 17:01 README.txt
+-rw-r--r--    1 taphoa24   taphoa24        16991 Sep 25 17:01 pathauto.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24         2062 Sep 25 17:01 pathauto.api.php
+-rw-r--r--    1 taphoa24   taphoa24        24410 Sep 25 17:01 pathauto.inc
+-rw-r--r--    1 taphoa24   taphoa24          422 Sep 25 17:01 pathauto.info
+-rw-r--r--    1 taphoa24   taphoa24         5720 Sep 25 17:01 pathauto.install
+-rw-r--r--    1 taphoa24   taphoa24          548 Sep 25 17:01 pathauto.js
+-rw-r--r--    1 taphoa24   taphoa24        26531 Sep 25 17:01 pathauto.module
+-rw-r--r--    1 taphoa24   taphoa24        13504 Sep 25 17:01 pathauto.pathauto.inc
+-rw-r--r--    1 taphoa24   taphoa24        31191 Sep 25 17:01 pathauto.test
+-rw-r--r--    1 taphoa24   taphoa24         1185 Sep 25 17:01 pathauto.tokens.inc

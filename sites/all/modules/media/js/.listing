@@ -1,0 +1,9 @@
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 12:46 .
+drwxr-xr-x   10 taphoa24   taphoa24         4096 Oct  9 12:46 ..
+-rw-r--r--    1 taphoa24   taphoa24         2870 Oct  9 12:46 media.admin.js
+-rw-r--r--    1 taphoa24   taphoa24         4633 Oct  9 12:46 media.browser.js
+-rw-r--r--    1 taphoa24   taphoa24          318 Oct  9 12:46 media.core.js
+-rw-r--r--    1 taphoa24   taphoa24         4361 Oct  9 12:46 media.js
+-rw-r--r--    1 taphoa24   taphoa24        12352 Oct  9 12:46 media.popups.js
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:46 plugins
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:46 util

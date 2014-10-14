@@ -1,0 +1,13 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x   42 taphoa24   taphoa24         4096 Sep 27 16:23 ..
+-rw-r--r--    1 taphoa24   taphoa24         1067 Sep 27 15:57 shortcut-rtl.css
+-rw-r--r--    1 taphoa24   taphoa24          104 Sep 27 15:57 shortcut.admin.css
+-rw-r--r--    1 taphoa24   taphoa24        26882 Sep 27 15:57 shortcut.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24         4485 Sep 27 15:57 shortcut.admin.js
+-rw-r--r--    1 taphoa24   taphoa24         1239 Sep 27 15:57 shortcut.api.php
+-rw-r--r--    1 taphoa24   taphoa24         2408 Sep 27 15:57 shortcut.css
+-rw-r--r--    1 taphoa24   taphoa24          336 Sep 27 15:57 shortcut.info
+-rw-r--r--    1 taphoa24   taphoa24         3053 Sep 27 15:57 shortcut.install
+-rw-r--r--    1 taphoa24   taphoa24        27199 Sep 27 15:57 shortcut.module
+-rw-r--r--    1 taphoa24   taphoa24          558 Sep 27 15:57 shortcut.png
+-rw-r--r--    1 taphoa24   taphoa24        13662 Sep 27 15:57 shortcut.test

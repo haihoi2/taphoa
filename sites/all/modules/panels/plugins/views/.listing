@@ -1,0 +1,4 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   11 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24          774 Oct  9 10:26 panels.views.inc
+-rw-r--r--    1 taphoa24   taphoa24         5405 Oct  9 10:26 panels_views_plugin_row_fields.inc

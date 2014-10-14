@@ -1,0 +1,4 @@
+filename = update_37
+description = "This template is made by <a href='http://template-help.com'>template-help.com</a>"
+modules = block aggregator blog book colorbox comment contact contextual ctools demo faq field field_sql_storage field_ui file filter follow gmap gmap_macro_builder gmap_taxonomy image libraries list locale menu node number options panels panels_ipe panels_mini path php poll scroll_to_top search shortcut social_share superfish system taxonomy text toolbar tracker trigger update user views_jqfx views_jqfx_cycle views_ui wysiwyg forum views panels_node page_manager
+version = 1.1

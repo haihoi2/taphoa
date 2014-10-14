@@ -1,0 +1,8 @@
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 12:40 .
+drwxr-xr-x    7 taphoa24   taphoa24         4096 Oct  9 12:40 ..
+-rw-r--r--    1 taphoa24   taphoa24         4441 Oct  9 12:40 L10nUpdateCronTest.test
+-rw-r--r--    1 taphoa24   taphoa24         4462 Oct  9 12:40 L10nUpdateInterfaceTest.test
+-rw-r--r--    1 taphoa24   taphoa24        23002 Oct  9 12:40 L10nUpdateTest.test
+-rw-r--r--    1 taphoa24   taphoa24        10453 Oct  9 12:40 L10nUpdateTestBase.test
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 12:40 modules
+-rw-r--r--    1 taphoa24   taphoa24          237 Oct  9 12:40 test.de.po

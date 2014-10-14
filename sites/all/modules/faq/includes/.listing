@@ -1,0 +1,15 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:01 .
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Sep 25 17:01 ..
+-rw-r--r--    1 taphoa24   taphoa24         4655 Sep 25 17:01 faq-category-hide-answer.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         4112 Sep 25 17:01 faq-category-new-page.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         4909 Sep 25 17:01 faq-category-questions-inline.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         4124 Sep 25 17:01 faq-category-questions-top-answers.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         6337 Sep 25 17:01 faq-category-questions-top.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         1197 Sep 25 17:01 faq-hide-answer.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          351 Sep 25 17:01 faq-new-page.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         1574 Sep 25 17:01 faq-questions-inline.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         1815 Sep 25 17:01 faq-questions-top.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         5064 Sep 25 17:01 faq.hide_answer.inc
+-rw-r--r--    1 taphoa24   taphoa24         4489 Sep 25 17:01 faq.new_page.inc
+-rw-r--r--    1 taphoa24   taphoa24         5779 Sep 25 17:01 faq.questions_inline.inc
+-rw-r--r--    1 taphoa24   taphoa24        10861 Sep 25 17:01 faq.questions_top.inc

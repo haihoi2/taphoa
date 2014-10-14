@@ -1,0 +1,9 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 .
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Sep 25 17:00 ..
+-rw-r--r--    1 taphoa24   taphoa24          224 Sep 25 17:00 README.txt
+-rw-r--r--    1 taphoa24   taphoa24          317 Sep 25 17:00 commerce_feeds_example.features.inc
+-rw-r--r--    1 taphoa24   taphoa24         3842 Sep 25 17:00 commerce_feeds_example.feeds_importer_default.inc
+-rw-r--r--    1 taphoa24   taphoa24          682 Sep 25 17:00 commerce_feeds_example.info
+-rw-r--r--    1 taphoa24   taphoa24          638 Sep 25 17:00 commerce_feeds_example.install
+-rw-r--r--    1 taphoa24   taphoa24           59 Sep 25 17:00 commerce_feeds_example.module
+-rw-r--r--    1 taphoa24   taphoa24         4016 Sep 25 17:00 example_products.csv

@@ -1,0 +1,6 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24         2008 Oct  9 10:26 node_from_view.inc
+-rw-r--r--    1 taphoa24   taphoa24         2021 Oct  9 10:26 term_from_view.inc
+-rw-r--r--    1 taphoa24   taphoa24         2009 Oct  9 10:26 user_from_view.inc
+-rw-r--r--    1 taphoa24   taphoa24         2898 Oct  9 10:26 view_from_argument.inc

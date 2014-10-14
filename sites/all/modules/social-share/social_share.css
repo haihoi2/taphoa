@@ -1,0 +1,70 @@
+/*Social sharing*/
+.social-share {
+	padding: 15px 0;
+}
+	.social-share span {
+		float: left; 
+		font-weight: bold;
+		vertical-align: middle;
+	}
+	.social-share a {
+		display: block;
+		float: left;
+		height: 16px;
+		margin-left: 5px;
+		opacity: .8;
+		text-indent: -9999px;
+		vertical-align: middle;
+		width: 16px;
+		-webkit-transition: opacity .2s ease-out;
+		-moz-transition: opacity .2s ease-out;
+	}
+		.social-share a:hover { opacity:1;}
+		
+	a.social-share-facebook {
+		background: url(icons/facebook.png) no-repeat 0 0;
+	}
+
+	a.social-share-twitter {
+		background: url(icons/twitter.png) no-repeat 0 0;
+	}
+
+	a.social-share-googlebuzz {
+		background: url(icons/buzz.png) no-repeat 0 0;
+	}
+
+	a.social-share-myspace {
+		background: url(icons/myspace.png) no-repeat 0 0;
+	}
+
+	a.social-share-msnlive {
+		background: url(icons/msn.png) no-repeat 0 0;
+	}
+
+	a.social-share-yahoo {
+		background: url(icons/yahoo.png) no-repeat 0 0;
+	}
+
+	a.social-share-linkedin {
+		background: url(icons/linkedin.png) no-repeat 0 0;
+	}
+
+	a.social-share-orkut {
+		background: url(icons/orkut.png) no-repeat 0 0;
+	}
+
+	a.social-share-digg {
+		background: url(icons/digg.png) no-repeat 0 0;
+	}
+
+	a.social-share-delicious {
+		background: url(icons/delicious.png) no-repeat 0 0;
+	}
+
+	a.social-share-facebook {
+		background: url(icons/facebook.png) no-repeat 0 0;
+	}
+
+	a.social-share-googleplus {
+		background: url(icons/gplus.png) no-repeat 0 0;
+	}

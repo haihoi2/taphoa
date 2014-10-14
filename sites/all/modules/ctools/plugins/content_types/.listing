@@ -1,0 +1,17 @@
+drwxr-xr-x   17 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    9 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 block
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 comment
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 contact
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 custom
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 entity_context
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 form
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 node
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 node_context
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 node_form
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 page
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 search
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 term_context
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 token
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 user_context
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 vocabulary_context

@@ -1,0 +1,16 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24        27928 Oct  9 10:26 getlocations_fields.js
+-rw-r--r--    1 taphoa24   taphoa24        16769 Oct  9 10:26 getlocations_fields.min.js
+-rw-r--r--    1 taphoa24   taphoa24         7016 Oct  9 10:26 getlocations_fields_admin.js
+-rw-r--r--    1 taphoa24   taphoa24         4969 Oct  9 10:26 getlocations_fields_admin.min.js
+-rw-r--r--    1 taphoa24   taphoa24        10932 Oct  9 10:26 getlocations_fields_formatter.js
+-rw-r--r--    1 taphoa24   taphoa24         7618 Oct  9 10:26 getlocations_fields_formatter.min.js
+-rw-r--r--    1 taphoa24   taphoa24         1868 Oct  9 10:26 getlocations_fields_preview.js
+-rw-r--r--    1 taphoa24   taphoa24         1062 Oct  9 10:26 getlocations_fields_preview.min.js
+-rw-r--r--    1 taphoa24   taphoa24         2527 Oct  9 10:26 getlocations_fields_search_views.js
+-rw-r--r--    1 taphoa24   taphoa24         1642 Oct  9 10:26 getlocations_fields_search_views.min.js
+-rw-r--r--    1 taphoa24   taphoa24         7333 Oct  9 10:26 getlocations_fields_streetview.js
+-rw-r--r--    1 taphoa24   taphoa24         4647 Oct  9 10:26 getlocations_fields_streetview.min.js
+-rw-r--r--    1 taphoa24   taphoa24         2083 Oct  9 10:26 getlocations_fields_views.js
+-rw-r--r--    1 taphoa24   taphoa24         1296 Oct  9 10:26 getlocations_fields_views.min.js

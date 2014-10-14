@@ -1,0 +1,16 @@
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Sep 25 17:00 .
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Sep 25 17:00 ..
+-rw-r--r--    1 taphoa24   taphoa24         2701 Sep 25 17:00 about.htm
+-rw-r--r--    1 taphoa24   taphoa24         1167 Sep 25 17:00 anchor.htm
+-rw-r--r--    1 taphoa24   taphoa24         2141 Sep 25 17:00 charmap.htm
+-rw-r--r--    1 taphoa24   taphoa24         3198 Sep 25 17:00 color_picker.htm
+-rw-r--r--    1 taphoa24   taphoa24        25151 Sep 25 17:00 editor_template.js
+-rw-r--r--    1 taphoa24   taphoa24        39359 Sep 25 17:00 editor_template_src.js
+-rw-r--r--    1 taphoa24   taphoa24         4038 Sep 25 17:00 image.htm
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 img
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 js
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 langs
+-rw-r--r--    1 taphoa24   taphoa24         2527 Sep 25 17:00 link.htm
+-rw-r--r--    1 taphoa24   taphoa24         1732 Sep 25 17:00 shortcuts.htm
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Sep 25 17:00 skins
+-rw-r--r--    1 taphoa24   taphoa24         1250 Sep 25 17:00 source_editor.htm

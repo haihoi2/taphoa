@@ -1,0 +1,14 @@
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 12:41 .
+drwxr-xr-x   71 taphoa24   taphoa24         4096 Oct 12 19:22 ..
+-rw-r--r--    1 taphoa24   taphoa24        18092 Oct  9 12:41 LICENSE.txt
+-rw-r--r--    1 taphoa24   taphoa24         5260 Oct  9 12:41 README.txt
+-rw-r--r--    1 taphoa24   taphoa24         4483 Oct  9 12:41 jquery.hotkeys.js
+-rw-r--r--    1 taphoa24   taphoa24          160 Oct  9 12:41 l10n_client-rtl.css
+-rw-r--r--    1 taphoa24   taphoa24         2878 Oct  9 12:41 l10n_client.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24         4626 Oct  9 12:41 l10n_client.css
+-rw-r--r--    1 taphoa24   taphoa24          357 Oct  9 12:41 l10n_client.info
+-rw-r--r--    1 taphoa24   taphoa24          915 Oct  9 12:41 l10n_client.install
+-rw-r--r--    1 taphoa24   taphoa24         9293 Oct  9 12:41 l10n_client.js
+-rw-r--r--    1 taphoa24   taphoa24        23848 Oct  9 12:41 l10n_client.module
+-rw-r--r--    1 taphoa24   taphoa24         5304 Oct  9 12:41 l10n_client.test
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:41 l10n_client_test

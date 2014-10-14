@@ -1,0 +1,14 @@
+drwxr-xr-x   13 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    7 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24           66 Oct  9 10:26 README.txt
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 cart
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Oct  9 10:26 checkout
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 customer
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 10:26 line_item
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 order
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Oct  9 10:26 payment
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 10:26 price
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 product
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 product_pricing
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 10:26 product_reference
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 tax

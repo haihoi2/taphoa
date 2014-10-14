@@ -1,0 +1,47 @@
+/* #Tablet (Portrait)
+================================================== */
+/* Note: Design for a width of 768px */
+
+@media only screen and (min-width: 768px) and (max-width: 995px) {
+    .form-submit {padding:  7px 10px;}
+    .notab {display: none !important;}
+	.view-featured-products .views-row {width: 175px; margin-right: 15px;}
+    .view-featured-products .views-row .views-field-add-to-cart-form .form-submit {
+        padding: 7px 8px 7px;
+    }
+    .view-featured-products .views-field-commerce-price {
+        font-size: 12px;
+        line-height: 15px;
+    }
+	#page, #footer {width: 768px;}
+    .view-bestsellers .views-row {
+        width: 171px;
+        padding: 10px;
+    }
+    .view-bestsellers .views-row .views-field-title {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .view-bestsellers .views-row .view-node a {
+        padding: 6px 7px 7px;
+    }
+    .view-bestsellers .views-row .views-field-commerce-price {
+        font-size: 12px;
+    }
+    .view-shop-page .view-content .views-row {
+        width: 265px;
+        margin-right: 20px;
+        padding: 20px;
+    }
+    #edit-quantity {width: 25px;}
+    .item-list .commerce-checkout-progress > li {
+        padding: 12px 10px 9px;
+    }
+    .node-product-display.node-teaser .field-field-product-photo {width: 300px;}
+  .views-table th.views-field-sku,
+  .views-table td.views-field-sku {
+    display: none;
+  }
+  .region-new-product {display: none;}
+  #back-top {display: none !important;}
+}

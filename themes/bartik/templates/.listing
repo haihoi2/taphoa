@@ -1,0 +1,7 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Sep 27 15:57 ..
+-rw-r--r--    1 taphoa24   taphoa24         2002 Sep 27 15:57 comment-wrapper.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         4004 Sep 27 15:57 comment.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         2566 Sep 27 15:57 maintenance-page.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24         5404 Sep 27 15:57 node.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24        10230 Sep 27 15:57 page.tpl.php

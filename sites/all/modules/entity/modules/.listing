@@ -1,0 +1,13 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    8 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24          890 Oct  9 10:26 book.info.inc
+-rw-r--r--    1 taphoa24   taphoa24        33796 Oct  9 10:26 callbacks.inc
+-rw-r--r--    1 taphoa24   taphoa24         6413 Oct  9 10:26 comment.info.inc
+-rw-r--r--    1 taphoa24   taphoa24         7102 Oct  9 10:26 field.info.inc
+-rw-r--r--    1 taphoa24   taphoa24         1467 Oct  9 10:26 locale.info.inc
+-rw-r--r--    1 taphoa24   taphoa24         5956 Oct  9 10:26 node.info.inc
+-rw-r--r--    1 taphoa24   taphoa24         1687 Oct  9 10:26 poll.info.inc
+-rw-r--r--    1 taphoa24   taphoa24         1351 Oct  9 10:26 statistics.info.inc
+-rw-r--r--    1 taphoa24   taphoa24         4594 Oct  9 10:26 system.info.inc
+-rw-r--r--    1 taphoa24   taphoa24         4370 Oct  9 10:26 taxonomy.info.inc
+-rw-r--r--    1 taphoa24   taphoa24         3928 Oct  9 10:26 user.info.inc

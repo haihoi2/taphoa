@@ -1,0 +1,12 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:40 .
+drwxr-xr-x   18 taphoa24   taphoa24         4096 Oct  9 12:40 ..
+-rw-r--r--    1 taphoa24   taphoa24        10180 Oct  9 12:40 i18n_string.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24         4897 Oct  9 12:40 i18n_string.api.php
+-rw-r--r--    1 taphoa24   taphoa24         2919 Oct  9 12:40 i18n_string.i18n.inc
+-rw-r--r--    1 taphoa24   taphoa24        50701 Oct  9 12:40 i18n_string.inc
+-rw-r--r--    1 taphoa24   taphoa24          477 Oct  9 12:40 i18n_string.info
+-rw-r--r--    1 taphoa24   taphoa24         8596 Oct  9 12:40 i18n_string.install
+-rw-r--r--    1 taphoa24   taphoa24        35256 Oct  9 12:40 i18n_string.module
+-rw-r--r--    1 taphoa24   taphoa24        16640 Oct  9 12:40 i18n_string.pages.inc
+-rw-r--r--    1 taphoa24   taphoa24         6287 Oct  9 12:40 i18n_string.test
+-rw-r--r--    1 taphoa24   taphoa24         1819 Oct  9 12:40 i18n_string.variable.inc

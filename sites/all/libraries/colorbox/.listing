@@ -1,0 +1,15 @@
+drwxr-xr-x    9 taphoa24   taphoa24         4096 Oct  9 12:29 .
+drwxr-xr-x   10 taphoa24   taphoa24         4096 Oct  9 11:02 ..
+-rwxr-xr-x    1 taphoa24   taphoa24        30193 Oct  4 03:46 README.md
+-rwxr-xr-x    1 taphoa24   taphoa24          754 Oct  4 03:46 bower.json
+-rwxr-xr-x    1 taphoa24   taphoa24       235313 Oct  4 03:46 colorbox.ai
+-rwxr-xr-x    1 taphoa24   taphoa24          576 Oct  4 03:46 colorbox.jquery.json
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  4 03:46 content
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  4 03:46 example1
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  4 03:46 example2
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  4 03:46 example3
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  4 03:46 example4
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  4 03:46 example5
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  4 03:46 i18n
+-rwxr-xr-x    1 taphoa24   taphoa24        11748 Oct  9 12:29 jquery.colorbox-min.js
+-rwxr-xr-x    1 taphoa24   taphoa24        29124 Oct  4 03:46 jquery.colorbox.js

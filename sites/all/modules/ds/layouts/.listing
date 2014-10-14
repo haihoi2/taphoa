@@ -1,0 +1,15 @@
+drwxr-xr-x   15 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   12 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_1col
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_1col_wrapper
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_2col
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_2col_fluid
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_2col_stacked
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_2col_stacked_fluid
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_3col
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_3col_equal_width
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_3col_stacked
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_3col_stacked_equal_width
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_3col_stacked_fluid
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_4col
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 ds_reset

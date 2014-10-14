@@ -1,0 +1,13 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:40 .
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 12:40 ..
+-rw-r--r--    1 taphoa24   taphoa24         3021 Oct  9 12:40 Gettext.php
+-rw-r--r--    1 taphoa24   taphoa24         4476 Oct  9 12:40 PoDatabaseReader.php
+-rw-r--r--    1 taphoa24   taphoa24         8189 Oct  9 12:40 PoDatabaseWriter.php
+-rw-r--r--    1 taphoa24   taphoa24         1018 Oct  9 12:40 SourceString.php
+-rw-r--r--    1 taphoa24   taphoa24         3746 Oct  9 12:40 StringBase.php
+-rw-r--r--    1 taphoa24   taphoa24        16124 Oct  9 12:40 StringDatabaseStorage.php
+-rw-r--r--    1 taphoa24   taphoa24         3696 Oct  9 12:40 StringInterface.php
+-rw-r--r--    1 taphoa24   taphoa24          206 Oct  9 12:40 StringStorageException.php
+-rw-r--r--    1 taphoa24   taphoa24         5074 Oct  9 12:40 StringStorageInterface.php
+-rw-r--r--    1 taphoa24   taphoa24         2704 Oct  9 12:40 TranslationString.php
+-rw-r--r--    1 taphoa24   taphoa24          613 Oct  9 12:40 TranslationsStreamWrapper.php

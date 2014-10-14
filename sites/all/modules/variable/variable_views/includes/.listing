@@ -1,0 +1,5 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:42 .
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 12:42 ..
+-rw-r--r--    1 taphoa24   taphoa24          300 Oct  9 12:42 views_handler_field_variable_title.inc
+-rw-r--r--    1 taphoa24   taphoa24          660 Oct  9 12:42 views_handler_field_variable_value.inc
+-rw-r--r--    1 taphoa24   taphoa24         1301 Oct  9 12:42 views_plugin_argument_default_variable.inc

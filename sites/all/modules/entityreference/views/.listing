@@ -1,0 +1,6 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24         5274 Oct  9 10:26 entityreference.views.inc
+-rw-r--r--    1 taphoa24   taphoa24         4664 Oct  9 10:26 entityreference_plugin_display.inc
+-rw-r--r--    1 taphoa24   taphoa24         1045 Oct  9 10:26 entityreference_plugin_row_fields.inc
+-rw-r--r--    1 taphoa24   taphoa24         2152 Oct  9 10:26 entityreference_plugin_style.inc

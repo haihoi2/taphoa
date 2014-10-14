@@ -1,0 +1,13 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x   42 taphoa24   taphoa24         4096 Sep 27 16:23 ..
+-rw-r--r--    1 taphoa24   taphoa24         2144 Sep 27 15:57 taxonomy-term.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24        36578 Sep 27 15:57 taxonomy.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24         6060 Sep 27 15:57 taxonomy.api.php
+-rw-r--r--    1 taphoa24   taphoa24          232 Sep 27 15:57 taxonomy.css
+-rw-r--r--    1 taphoa24   taphoa24          353 Sep 27 15:57 taxonomy.info
+-rw-r--r--    1 taphoa24   taphoa24        30868 Sep 27 15:57 taxonomy.install
+-rw-r--r--    1 taphoa24   taphoa24         1770 Sep 27 15:57 taxonomy.js
+-rw-r--r--    1 taphoa24   taphoa24        71355 Sep 27 15:57 taxonomy.module
+-rw-r--r--    1 taphoa24   taphoa24         6704 Sep 27 15:57 taxonomy.pages.inc
+-rw-r--r--    1 taphoa24   taphoa24        78633 Sep 27 15:57 taxonomy.test
+-rw-r--r--    1 taphoa24   taphoa24         6028 Sep 27 15:57 taxonomy.tokens.inc

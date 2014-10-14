@@ -1,0 +1,10 @@
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 21:37 .
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 21:37 ..
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 21:37 fonts
+-rw-r--r--    1 taphoa24   taphoa24        17443 Oct  9 21:37 image_captcha.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24          603 Oct  9 21:37 image_captcha.css
+-rw-r--r--    1 taphoa24   taphoa24          463 Oct  9 21:37 image_captcha.info
+-rw-r--r--    1 taphoa24   taphoa24         1296 Oct  9 21:37 image_captcha.install
+-rw-r--r--    1 taphoa24   taphoa24         1554 Oct  9 21:37 image_captcha.js
+-rw-r--r--    1 taphoa24   taphoa24         9252 Oct  9 21:37 image_captcha.module
+-rw-r--r--    1 taphoa24   taphoa24        13548 Oct  9 21:37 image_captcha.user.inc

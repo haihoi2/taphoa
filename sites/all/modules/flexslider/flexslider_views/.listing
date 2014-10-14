@@ -1,0 +1,8 @@
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Sep 25 17:01 .
+drwxr-xr-x    7 taphoa24   taphoa24         4096 Sep 25 17:01 ..
+-rw-r--r--    1 taphoa24   taphoa24          441 Sep 25 17:01 README.txt
+-rw-r--r--    1 taphoa24   taphoa24          449 Sep 25 17:01 flexslider_views.info
+-rw-r--r--    1 taphoa24   taphoa24          241 Sep 25 17:01 flexslider_views.module
+-rw-r--r--    1 taphoa24   taphoa24          879 Sep 25 17:01 flexslider_views.views.inc
+-rw-r--r--    1 taphoa24   taphoa24         2627 Sep 25 17:01 flexslider_views_plugin_style_flexslider.inc
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:01 theme

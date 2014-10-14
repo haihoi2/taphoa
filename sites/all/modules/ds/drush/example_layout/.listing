@@ -1,0 +1,8 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24          115 Oct  9 10:26 README.txt
+-rw-r--r--    1 taphoa24   taphoa24         1617 Oct  9 10:26 example-layout.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          125 Oct  9 10:26 example_layout-rtl.css
+-rw-r--r--    1 taphoa24   taphoa24          169 Oct  9 10:26 example_layout.css
+-rw-r--r--    1 taphoa24   taphoa24          470 Oct  9 10:26 example_layout.inc
+-rw-r--r--    1 taphoa24   taphoa24          760 Oct  9 10:26 example_layout.png

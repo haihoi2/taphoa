@@ -1,0 +1,4 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:46 .
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 12:46 ..
+-rw-r--r--    1 taphoa24   taphoa24         2546 Oct  9 12:46 file_content.inc
+-rw-r--r--    1 taphoa24   taphoa24         4976 Oct  9 12:46 file_display.inc

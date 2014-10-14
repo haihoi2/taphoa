@@ -1,0 +1,5 @@
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   19 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 plugins
+-rw-r--r--    1 taphoa24   taphoa24          293 Oct  9 10:26 term_depth.info
+-rw-r--r--    1 taphoa24   taphoa24          160 Oct  9 10:26 term_depth.module

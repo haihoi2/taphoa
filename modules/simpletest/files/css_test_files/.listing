@@ -1,0 +1,14 @@
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Sep 27 15:57 ..
+-rw-r--r--    1 taphoa24   taphoa24        61915 Sep 27 15:57 comment_hacks.css
+-rw-r--r--    1 taphoa24   taphoa24          844 Sep 27 15:57 comment_hacks.css.optimized.css
+-rw-r--r--    1 taphoa24   taphoa24        61915 Sep 27 15:57 comment_hacks.css.unoptimized.css
+-rw-r--r--    1 taphoa24   taphoa24          398 Sep 27 15:57 css_input_with_import.css
+-rw-r--r--    1 taphoa24   taphoa24          455 Sep 27 15:57 css_input_with_import.css.optimized.css
+-rw-r--r--    1 taphoa24   taphoa24          546 Sep 27 15:57 css_input_with_import.css.unoptimized.css
+-rw-r--r--    1 taphoa24   taphoa24         1154 Sep 27 15:57 css_input_without_import.css
+-rw-r--r--    1 taphoa24   taphoa24          812 Sep 27 15:57 css_input_without_import.css.optimized.css
+-rw-r--r--    1 taphoa24   taphoa24         1154 Sep 27 15:57 css_input_without_import.css.unoptimized.css
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 css_subfolder
+-rw-r--r--    1 taphoa24   taphoa24          121 Sep 27 15:57 import1.css
+-rw-r--r--    1 taphoa24   taphoa24           71 Sep 27 15:57 import2.css

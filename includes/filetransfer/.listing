@@ -1,0 +1,6 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Sep 27 15:57 ..
+-rw-r--r--    1 taphoa24   taphoa24        12009 Sep 27 15:57 filetransfer.inc
+-rw-r--r--    1 taphoa24   taphoa24         4790 Sep 27 15:57 ftp.inc
+-rw-r--r--    1 taphoa24   taphoa24         2777 Sep 27 15:57 local.inc
+-rw-r--r--    1 taphoa24   taphoa24         4121 Sep 27 15:57 ssh.inc

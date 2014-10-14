@@ -1,0 +1,7 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   13 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24         3407 Oct  9 10:26 README.txt
+-rw-r--r--    1 taphoa24   taphoa24         1173 Oct  9 10:26 i18n_panels.i18n.inc
+-rw-r--r--    1 taphoa24   taphoa24          386 Oct  9 10:26 i18n_panels.info
+-rw-r--r--    1 taphoa24   taphoa24          763 Oct  9 10:26 i18n_panels.install
+-rw-r--r--    1 taphoa24   taphoa24        14783 Oct  9 10:26 i18n_panels.module

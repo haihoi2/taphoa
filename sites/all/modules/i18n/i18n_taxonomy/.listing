@@ -1,0 +1,12 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:40 .
+drwxr-xr-x   18 taphoa24   taphoa24         4096 Oct  9 12:40 ..
+-rw-r--r--    1 taphoa24   taphoa24         8409 Oct  9 12:40 i18n_taxonomy.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24         4380 Oct  9 12:40 i18n_taxonomy.i18n.inc
+-rw-r--r--    1 taphoa24   taphoa24         1369 Oct  9 12:40 i18n_taxonomy.inc
+-rw-r--r--    1 taphoa24   taphoa24          488 Oct  9 12:40 i18n_taxonomy.info
+-rw-r--r--    1 taphoa24   taphoa24         4448 Oct  9 12:40 i18n_taxonomy.install
+-rw-r--r--    1 taphoa24   taphoa24        46783 Oct  9 12:40 i18n_taxonomy.module
+-rw-r--r--    1 taphoa24   taphoa24         4468 Oct  9 12:40 i18n_taxonomy.pages.inc
+-rw-r--r--    1 taphoa24   taphoa24        10733 Oct  9 12:40 i18n_taxonomy.test
+-rw-r--r--    1 taphoa24   taphoa24         3571 Oct  9 12:40 i18n_taxonomy.tokens.inc
+-rw-r--r--    1 taphoa24   taphoa24          423 Oct  9 12:40 i18n_taxonomy.views.inc

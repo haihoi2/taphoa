@@ -1,0 +1,6 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:46 .
+drwxr-xr-x    8 taphoa24   taphoa24         4096 Oct  9 12:46 ..
+-rw-r--r--    1 taphoa24   taphoa24         6325 Oct  9 12:46 media_wysiwyg.file_usage.inc
+-rw-r--r--    1 taphoa24   taphoa24        13753 Oct  9 12:46 media_wysiwyg.filter.inc
+-rw-r--r--    1 taphoa24   taphoa24         4302 Oct  9 12:46 media_wysiwyg.pages.inc
+-rw-r--r--    1 taphoa24   taphoa24         3114 Oct  9 12:46 media_wysiwyg.uuid.inc

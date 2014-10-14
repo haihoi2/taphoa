@@ -1,0 +1,14 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   17 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24          868 Oct  9 10:26 page_actions.inc
+-rw-r--r--    1 taphoa24   taphoa24          849 Oct  9 10:26 page_breadcrumb.inc
+-rw-r--r--    1 taphoa24   taphoa24          807 Oct  9 10:26 page_feed_icons.inc
+-rw-r--r--    1 taphoa24   taphoa24          778 Oct  9 10:26 page_help.inc
+-rw-r--r--    1 taphoa24   taphoa24          980 Oct  9 10:26 page_logo.inc
+-rw-r--r--    1 taphoa24   taphoa24          824 Oct  9 10:26 page_messages.inc
+-rw-r--r--    1 taphoa24   taphoa24         1126 Oct  9 10:26 page_primary_links.inc
+-rw-r--r--    1 taphoa24   taphoa24         1145 Oct  9 10:26 page_secondary_links.inc
+-rw-r--r--    1 taphoa24   taphoa24          800 Oct  9 10:26 page_site_name.inc
+-rw-r--r--    1 taphoa24   taphoa24          795 Oct  9 10:26 page_slogan.inc
+-rw-r--r--    1 taphoa24   taphoa24         2083 Oct  9 10:26 page_tabs.inc
+-rw-r--r--    1 taphoa24   taphoa24         2839 Oct  9 10:26 page_title.inc

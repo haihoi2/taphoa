@@ -1,0 +1,12 @@
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x   42 taphoa24   taphoa24         4096 Sep 27 16:23 ..
+-rw-r--r--    1 taphoa24   taphoa24          311 Sep 27 15:57 locale-rtl.css
+-rw-r--r--    1 taphoa24   taphoa24        53209 Sep 27 15:57 locale.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24          909 Sep 27 15:57 locale.api.php
+-rw-r--r--    1 taphoa24   taphoa24          875 Sep 27 15:57 locale.css
+-rw-r--r--    1 taphoa24   taphoa24         2110 Sep 27 15:57 locale.datepicker.js
+-rw-r--r--    1 taphoa24   taphoa24          385 Sep 27 15:57 locale.info
+-rw-r--r--    1 taphoa24   taphoa24        14915 Sep 27 15:57 locale.install
+-rw-r--r--    1 taphoa24   taphoa24        46247 Sep 27 15:57 locale.module
+-rw-r--r--    1 taphoa24   taphoa24       124071 Sep 27 15:57 locale.test
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Sep 27 15:57 tests

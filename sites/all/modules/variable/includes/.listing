@@ -1,0 +1,10 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:42 .
+drwxr-xr-x    8 taphoa24   taphoa24         4096 Oct  9 12:42 ..
+-rw-r--r--    1 taphoa24   taphoa24         1975 Oct  9 12:42 forum.variable.inc
+-rw-r--r--    1 taphoa24   taphoa24         3197 Oct  9 12:42 locale.variable.inc
+-rw-r--r--    1 taphoa24   taphoa24         2195 Oct  9 12:42 menu.variable.inc
+-rw-r--r--    1 taphoa24   taphoa24         5026 Oct  9 12:42 node.variable.inc
+-rw-r--r--    1 taphoa24   taphoa24        16421 Oct  9 12:42 system.variable.inc
+-rw-r--r--    1 taphoa24   taphoa24         1035 Oct  9 12:42 taxonomy.variable.inc
+-rw-r--r--    1 taphoa24   taphoa24          961 Oct  9 12:42 translation.variable.inc
+-rw-r--r--    1 taphoa24   taphoa24         8999 Oct  9 12:42 user.variable.inc

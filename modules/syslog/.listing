@@ -1,0 +1,6 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 27 15:57 .
+drwxr-xr-x   42 taphoa24   taphoa24         4096 Sep 27 16:23 ..
+-rw-r--r--    1 taphoa24   taphoa24          309 Sep 27 15:57 syslog.info
+-rw-r--r--    1 taphoa24   taphoa24          266 Sep 27 15:57 syslog.install
+-rw-r--r--    1 taphoa24   taphoa24         6012 Sep 27 15:57 syslog.module
+-rw-r--r--    1 taphoa24   taphoa24         1211 Sep 27 15:57 syslog.test

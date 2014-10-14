@@ -1,0 +1,8 @@
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Sep 25 17:00 .
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Sep 25 17:00 ..
+-rw-r--r--    1 taphoa24   taphoa24          834 Sep 25 17:00 README.md
+-rw-r--r--    1 taphoa24   taphoa24         1768 Sep 25 17:00 bootstrap.sh
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Sep 25 17:00 inputs
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Sep 25 17:00 outputs
+-rw-r--r--    1 taphoa24   taphoa24         1314 Sep 25 17:00 sort.php
+-rw-r--r--    1 taphoa24   taphoa24         4943 Sep 25 17:00 test.php

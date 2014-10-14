@@ -1,0 +1,15 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    6 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24          332 Oct  9 10:26 _bordered-pulled.scss
+-rw-r--r--    1 taphoa24   taphoa24          271 Oct  9 10:26 _core.scss
+-rw-r--r--    1 taphoa24   taphoa24          120 Oct  9 10:26 _fixed-width.scss
+-rw-r--r--    1 taphoa24   taphoa24        26582 Oct  9 10:26 _icons.scss
+-rw-r--r--    1 taphoa24   taphoa24          375 Oct  9 10:26 _larger.scss
+-rw-r--r--    1 taphoa24   taphoa24          378 Oct  9 10:26 _list.scss
+-rw-r--r--    1 taphoa24   taphoa24          701 Oct  9 10:26 _mixins.scss
+-rw-r--r--    1 taphoa24   taphoa24          695 Oct  9 10:26 _path.scss
+-rw-r--r--    1 taphoa24   taphoa24          412 Oct  9 10:26 _rotated-flipped.scss
+-rw-r--r--    1 taphoa24   taphoa24          766 Oct  9 10:26 _spinning.scss
+-rw-r--r--    1 taphoa24   taphoa24          482 Oct  9 10:26 _stacked.scss
+-rw-r--r--    1 taphoa24   taphoa24        10723 Oct  9 10:26 _variables.scss
+-rw-r--r--    1 taphoa24   taphoa24          405 Oct  9 10:26 font-awesome.scss

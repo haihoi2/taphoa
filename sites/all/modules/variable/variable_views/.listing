@@ -1,0 +1,7 @@
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 12:42 .
+drwxr-xr-x    8 taphoa24   taphoa24         4096 Oct  9 12:42 ..
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 12:42 includes
+-rw-r--r--    1 taphoa24   taphoa24          519 Oct  9 12:42 variable_views.info
+-rw-r--r--    1 taphoa24   taphoa24          837 Oct  9 12:42 variable_views.module
+-rw-r--r--    1 taphoa24   taphoa24         1715 Oct  9 12:42 variable_views.views.inc
+-rw-r--r--    1 taphoa24   taphoa24         5052 Oct  9 12:42 variable_views.views_default.inc

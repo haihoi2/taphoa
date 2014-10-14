@@ -1,0 +1,14 @@
+drwxr-xr-x   14 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    7 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_blocks
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_cloudmade
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_feeds
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_fields
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_fields_entity
+drwxr-xr-x    4 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_gps
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_leaflet
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_location_taxonomize
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_map
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_mapbox
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_search
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 getlocations_tools

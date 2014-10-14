@@ -1,0 +1,7 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    9 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24         3070 Oct  9 10:26 rules_i18n.i18n.inc
+-rw-r--r--    1 taphoa24   taphoa24          403 Oct  9 10:26 rules_i18n.info
+-rw-r--r--    1 taphoa24   taphoa24         4404 Oct  9 10:26 rules_i18n.module
+-rw-r--r--    1 taphoa24   taphoa24         6493 Oct  9 10:26 rules_i18n.rules.inc
+-rw-r--r--    1 taphoa24   taphoa24         7471 Oct  9 10:26 rules_i18n.test

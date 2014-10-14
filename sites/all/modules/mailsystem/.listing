@@ -1,0 +1,13 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 19:28 .
+drwxr-xr-x   71 taphoa24   taphoa24         4096 Oct 12 19:22 ..
+-rw-r--r--    1 taphoa24   taphoa24        18092 Oct  9 19:28 LICENSE.txt
+-rw-r--r--    1 taphoa24   taphoa24         1224 Oct  9 19:28 MailsystemDelegateMailSystem.inc
+-rw-r--r--    1 taphoa24   taphoa24         4558 Oct  9 19:28 README.html
+-rw-r--r--    1 taphoa24   taphoa24         3805 Oct  9 19:28 README.markdown
+-rw-r--r--    1 taphoa24   taphoa24         3725 Oct  9 19:28 README.txt
+-rw-r--r--    1 taphoa24   taphoa24        26074 Oct  9 19:28 html_to_text.inc
+-rw-r--r--    1 taphoa24   taphoa24        10483 Oct  9 19:28 mailsystem.admin.inc
+-rw-r--r--    1 taphoa24   taphoa24          418 Oct  9 19:28 mailsystem.info
+-rw-r--r--    1 taphoa24   taphoa24         4313 Oct  9 19:28 mailsystem.install
+-rw-r--r--    1 taphoa24   taphoa24        13699 Oct  9 19:28 mailsystem.module
+-rw-r--r--    1 taphoa24   taphoa24         4284 Oct  9 19:28 mailsystem.theme.inc

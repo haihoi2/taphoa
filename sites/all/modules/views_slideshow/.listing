@@ -1,0 +1,15 @@
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x   71 taphoa24   taphoa24         4096 Oct 12 19:22 ..
+-rw-r--r--    1 taphoa24   taphoa24        18092 Oct  9 10:26 LICENSE.txt
+-rw-r--r--    1 taphoa24   taphoa24         2964 Oct  9 10:26 README.txt
+drwxr-xr-x    3 taphoa24   taphoa24         4096 Oct  9 10:26 contrib
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 js
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 theme
+-rw-r--r--    1 taphoa24   taphoa24         5591 Oct  9 10:26 views_slideshow.api.php
+-rw-r--r--    1 taphoa24   taphoa24          155 Oct  9 10:26 views_slideshow.css
+-rw-r--r--    1 taphoa24   taphoa24          569 Oct  9 10:26 views_slideshow.info
+-rw-r--r--    1 taphoa24   taphoa24          947 Oct  9 10:26 views_slideshow.make
+-rw-r--r--    1 taphoa24   taphoa24        17978 Oct  9 10:26 views_slideshow.module
+-rw-r--r--    1 taphoa24   taphoa24          820 Oct  9 10:26 views_slideshow.views.inc
+-rw-r--r--    1 taphoa24   taphoa24           95 Oct  9 10:26 views_slideshow_controls_text.css
+-rw-r--r--    1 taphoa24   taphoa24        11517 Oct  9 10:26 views_slideshow_plugin_style_slideshow.inc

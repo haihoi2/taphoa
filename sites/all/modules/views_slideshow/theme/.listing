@@ -1,0 +1,12 @@
+drwxr-xr-x    2 taphoa24   taphoa24         4096 Oct  9 10:26 .
+drwxr-xr-x    5 taphoa24   taphoa24         4096 Oct  9 10:26 ..
+-rw-r--r--    1 taphoa24   taphoa24          165 Oct  9 10:26 views-slideshow-controls-text-next.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          168 Oct  9 10:26 views-slideshow-controls-text-pause.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          173 Oct  9 10:26 views-slideshow-controls-text-previous.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          246 Oct  9 10:26 views-slideshow-controls-text.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          522 Oct  9 10:26 views-slideshow-pager-field-field.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          220 Oct  9 10:26 views-slideshow-pager-field-item.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          118 Oct  9 10:26 views-slideshow-pager-fields.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          227 Oct  9 10:26 views-slideshow-slide-counter.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24          806 Oct  9 10:26 views-slideshow.tpl.php
+-rw-r--r--    1 taphoa24   taphoa24        13370 Oct  9 10:26 views_slideshow.theme.inc
